@@ -1,4 +1,4 @@
-# iOS开发工程师
+# [iOS 开发工程师](https://github.com/c0ding/iOS-iOS-resume)
 
 -----
 
@@ -11,7 +11,7 @@
   现居：杭州市、余杭区、老余杭<br>
   iOS开发经验：2年<br>
   [个人博客](http://www.jianshu.com/u/943e6ffbaa35)<br>
-  [简历地址](https://github.com/c0ding/iOS-iOS-resume)	
+  	
 专业技能
 -----
 
